@@ -1,0 +1,439 @@
+
+body {
+    background-color: #261000;
+    margin:0;
+    overflow-x: hidden; 
+    
+    }
+    .header
+    {
+        position: relative;
+        height: 2rem;
+        width: 4.5rem;
+        margin-top:10px;;
+        display: block;
+    max-width: 100%;
+max-height:100%
+text-align: center;
+}
+.logo
+{
+   height: 5rem;
+   width: 7rem;
+   padding-left: 200px;
+   padding-top: 10px;
+    }
+    .header nav a{
+        margin-top: 50px;
+    }
+
+ .banner img{
+    margin-top: 15px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+  object-fit: cover;
+  display:block;
+}
+header a{
+    text-align: center;
+    text-decoration:none;
+    margin-right:10px;
+    margin-left: 100px;
+  margin-top:10px;
+    font-size: 1.3rem;
+    color: #e8ce69;
+    display:inline;
+    font-family: Lato, sans-serif;
+    font-weight: 400
+}
+.fa{
+    color: #e8ce69;
+    font-size: 1.25rem;
+    margin-left: 100px;
+}
+.button1{
+    color: #fff2b7;
+    background-color: #bf271b;
+    border-radius: 3rem;
+        font-size: 1.125rem;
+        height: 3.5rem;
+        padding: .6875rem 2.5rem .75rem;
+        align-items: center;
+        box-sizing: border-box;
+    cursor: pointer;
+    display: flex;
+    font-family: Lato, sans-serif;
+    font-weight: 600;
+    width: fit-content;
+    position: absolute;
+    top: 570px;
+    left: 250px;
+}
+.card-recipies{
+    margin-top: 20px;
+}
+h2{
+    color:  #FFF;
+    font-weight: 700;
+    font-family: Manrope, sans-serif;
+    font-size: 2.5rem;
+    margin-left: 200px;
+}
+.subheading{
+    color: white;
+    margin-bottom: 2rem;
+    font-family: Lato, sans-serif;
+    margin-left: 200px;
+    font-size: 1rem;
+}
+
+.card-container{
+    display: flex;
+   
+} 
+.arrow-click{
+margin-top: 100px;
+margin-right: 20px;
+
+} 
+.imgcontent1 img{
+    width: 300px;
+    border-radius: 15px;
+    margin-right: 15px;
+    margin-left: 10px;
+    padding-top: 100px;
+    
+}
+
+
+.btn{
+    
+    font-size: 1rem;
+        font-weight: 200;
+        margin-top: 5%;
+        border-radius: 15px;
+        background-color: transparent;
+        border: .0625rem solid #f4eac0;
+        color: #fff2b7;
+        height: 2.125rem;
+        width: 5rem;
+       padding-top: .4rem;
+      
+   
+}
+ h5{
+    color: #fff2b7;
+    font-size: 1.5rem;
+    font-family: Manrope, sans-serif
+    
+}
+p{
+    color:#FFF;
+}
+.arrow-click{
+    margin-top: 200px;
+}
+.arrow-pr{
+margin-top: 280px;
+}
+.previous  {
+    
+    background-color:  #ff0127;
+    margin-left: 200px;
+    border-radius: 50%;
+    color: #FFF;
+    height: 3.5rem;
+    width: 3.5rem;
+    font-size: 3rem;
+    text-align: center;
+    
+    align-items: center;
+    
+  }
+  .arrow-2{
+  margin-top: 100px;
+  }
+  
+  .next {
+    margin-top: 200px;
+    background-color: #ff0127;
+    color: white;
+    height: 3.5rem;
+    width: 3.5rem;
+    font-size: 3rem;
+    text-align: center;
+    border-radius: 50%;
+   
+  }
+  a{
+    padding: 8px 16px;
+    font-size: 2.3rem;
+  }
+.round{
+    border-radius: 70%;
+    margin-top: 100px;
+}
+
+.slick{
+    margin-top: 10px;
+   margin-left: 600px;
+   border-radius: 50%;
+  
+   
+}
+
+.dot{
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+    background-color: transparent;
+    border-color: #b2251a;
+    margin-right: 7px;
+    
+}
+.button2{
+    background: #bf271b;
+    border: none;
+    color: #fff2b7;
+    width: fit-content;
+    border-radius: 1.5rem;
+        font-size: 1.35rem;
+        height: 3rem;
+        padding: .6875rem 2.5rem .75rem;
+        font-weight: 600;
+        margin-top: 50px;
+        margin-left: 600px;
+    
+}
+
+.section-three{
+    margin-top: 150px;
+    overflow: hidden;
+}
+.button3{
+    border: .0625rem solid #fff2b7;
+    font-size: 1.5rem;
+        margin-right: 20px;
+        margin-left: 150px;
+        margin-top: 20px;
+        padding: .5rem 1rem;
+        background-color: transparent;
+        border-radius: 2.25rem;
+        height: 3.5rem;
+        width: 8rem;
+        box-sizing: border-box;
+    cursor: pointer;
+    font-family: Lato, sans-serif;
+    color: #fff2b7;
+}
+.links{
+    margin-left: 300px;
+   
+}
+.links a{
+    text-decoration: none;
+    color: #FFF;
+    font-size: 25px;
+    margin-right: 50px;
+}
+.choco{
+    margin-top: 10px;
+}
+.choco-img{
+    margin-top: 50px;
+}
+.choco img{
+    height: 220px;
+}
+h3{
+    font-size: 2.125rem;
+    color: #fff2b7;
+    font-family: Manrope, sans-serif;
+    font-weight: 400;
+    margin-left: 350px;
+}
+video{
+    height: 400px;
+    width: 50%;
+    margin-left: 350px;
+}
+.fantasy{
+    
+    width: 100%;
+    height: 650px;
+    background-image: url('bg2.jpg');
+  background-repeat: no-repeat;
+  margin-left: 80px;
+  margin-bottom: 0;
+  z-index: -1;
+
+} 
+.radio-btn
+{
+    display: flex;
+    color: #fff2b7;
+    cursor: pointer;
+    font-size: 1.5rem;
+    font-family: Lato, sans-serif;
+    margin-left: 280px;
+    margin-right: 100px;
+  gap: 70px;
+    
+}
+#option1,#option2,#option3{
+    width: 20px;
+    
+}
+
+
+.fantasy-2{
+    
+    margin-left: 80px;
+    margin-top: -50px;
+    width: 95%;
+    height: 650px;
+    background-image: url('https://s7ap1.scene7.com/is/image/itcportalprod/Cookie_BG?');
+    position: relative;
+    margin-right: 20px;
+   
+}
+.fantasy-2 h2{
+    margin-bottom: 1rem;
+        padding-top: 80px;
+        text-align: left;
+        color: #fff2b7;
+}
+.fantasy-2 h5{
+    color: #261000;
+    margin-left: 300px;
+    font-size: 1.5rem;
+    font-family: Lato, sans-serif;
+    font-weight: 600;
+}
+.morningimg{
+    box-shadow: inset 0 -4.375rem 3.125rem -1.5625rem #261000;
+}
+.morningimg img{
+    position: absolute;
+    height: 48%;
+    width: 30%;
+    top: 40%;  
+    left: 60%;
+    border-radius: 15px; 
+   
+    
+    
+}
+.cookieimg img{
+    position: absolute;
+    top: 48%;  
+    left: 10%;
+    width: 45%;
+    height: 50%; 
+    
+}
+.arrow img{
+    width:1.3rem;
+}
+.image-container p{
+    line-height: 1.625rem;
+    font-family: Lato, sans-serif;
+    font-size: 1rem;
+}
+.multiple-images{
+    display:flex;
+    margin-left: 220px;
+    margin-top: 0;
+   
+    
+
+   
+}
+.multiple-images img{
+    border-radius: 10px;
+    margin-right: 15px;
+    margin-bottom: 10px;
+  }
+  .second-column{
+    display:flex;
+    margin-left: 220px;
+    margin-top: 0;
+
+  }  
+
+.second-column img{
+    border-radius: 10px;
+    margin-right: 15px;
+    margin-bottom: 10px;
+}
+  .footer{
+    position: relative;
+    margin-left: 85px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+    height: 250px;
+    background-image: url('https://s7ap1.scene7.com/is/image/itcportalprod/df_footer-v2-M?fmt=webp-alpha');
+    background-repeat: no-repeat;
+    background-size: 530px 800px;
+    background-color: black;
+  }
+  #footer-logo{
+    position: absolute;
+    top: 100px;
+    left: 150px;
+  }
+  .foot-nav{
+    display: flex;
+    }
+    .foot-nav a{
+        text-decoration: none;
+        text-align: center;
+        color: #fff;
+        font-size: 1.125rem;
+        font-family: Lato, sans-serif;
+       
+    }
+    .coloumn1 {
+       
+        margin-left: 600px;
+        margin-top: 100px;
+        padding-right: 15px;
+        border-right: 1px solid #ffffff;
+        line-height: 25px;
+    }
+    .coloumn2 {
+        margin-top: 100px;
+        padding-right: 15px;
+        border-right: 1px solid #ffffff;   
+        line-height: 25px;
+        
+    }
+    .coloumn3 { 
+        margin-top: 100px;
+        line-height: 25px;
+    }
+    .foot-links a{
+        text-decoration: none;
+        font-size: 1.1rem;
+        font-family: Lato, sans-serif;
+        color: #fff;
+        margin-right: 10px;
+       padding-left: 50px;
+       margin-left: 100px;
+        
+    }
+    
+    .fa-brands{
+   color: #FFF;
+   font-size: 1.5rem;
+   margin-left: -40px;
+   float:right;
+   margin-right: 100px;
+
+  }
+  .col1,.col2,.col3,.col4,.col5{
+    width: 220px;
+  }
+  
+    
